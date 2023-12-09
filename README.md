@@ -8,7 +8,9 @@
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aymanshoity)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/syeda-umme-ayman-shoity-742aa5160//)   
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aymanshoity) 
+# Find Me on:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/syeda-umme-ayman-shoity-742aa5160//)   
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aymanshoity)](https://github.com/anuraghazra/github-readme-stats)
 
