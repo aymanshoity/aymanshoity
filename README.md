@@ -1,5 +1,5 @@
-###  Hi,I'm Syeda Umme Ayman
-![](https://i.ibb.co/X89NQsL/I-will-be-your-front-end-web-developer-using-HTML-CSS-javascript.jpg)
+### Hi,I'm Syeda Umme Ayman
+![](https://i.ibb.co/9nYbbZt/banner.png)
 
 I'm a dynamic junior front-end developer hailing from Dhaka, Bangladesh. My expertise lies in crafting immersive web experiences through a robust skill set in HTML, CSS, and JavaScript, React and MongoDB
 
@@ -15,6 +15,7 @@ Skills:  HTML / CSS/JavaScript / REACT / MongoDB
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aymanshoity&show_icons=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=aymanshoity)  
+
 
 
 
