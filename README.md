@@ -7,7 +7,8 @@
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aymanshoity)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/syeda-umme-ayman-shoity-742aa5160//)   
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aymanshoity)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/syeda-umme-ayman-shoity-742aa5160?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Btl8qhFM%2BRCWhOmQuHg6Hvg%3D%3D/)     
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aymanshoity)](https://github.com/anuraghazra/github-readme-stats)
 
