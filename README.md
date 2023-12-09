@@ -24,6 +24,16 @@
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=aymanshoity)  
 
+# Projects
+
+## 1. Apex Kare Estates
+### Live Link: https://apexkareestates.netlify.app/
+
+## 2. Assignment Avengers
+### Live Link: https://assignment-avengers.netlify.app/
+
+## 3. Tech Fuision Emporium
+### Live Link: https://tech-fusion-emporium.netlify.app
 
 
 
