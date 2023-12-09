@@ -18,7 +18,8 @@
 # Tools and Technologies I use
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,nodejs,react,redux,tailwind,vite,vscode,mongodb)](https://skillicons.dev)
 
-Current Github Status:
+# Current Github Status:
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aymanshoity&show_icons=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=aymanshoity)  
