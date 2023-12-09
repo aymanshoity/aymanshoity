@@ -1,7 +1,8 @@
-### Hi,I'm Syeda Umme Ayman
+#Hi,I'm Syeda Umme Ayman
 ![](https://i.ibb.co/9nYbbZt/banner.png)
 
- I'm a dynamic junior front-end developer hailing from Dhaka, Bangladesh. My expertise lies in crafting immersive web experiences through a robust skill set in HTML, CSS, and JavaScript, React and MongoDB
+### I'm a dynamic junior front-end developer hailing from Dhaka, Bangladesh. My expertise lies in crafting immersive web experiences through a robust skill set in HTML, CSS, and JavaScript, React and MongoDB.
+As a front-end developer, my vision is to craft digital experiences that seamlessly blend creativity with functionality. I aspire to contribute to the projects that not only meet current standards but also set new benchmarks for excellence. 
 
 
 
