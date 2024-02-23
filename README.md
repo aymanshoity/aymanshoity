@@ -38,6 +38,11 @@ It is a website for online group study with friends built with HTML,CSS,JS AND R
 ## 3. Tech Fuision Emporium
 ### Live Link: https://tech-fusion-emporium.netlify.app
 It's an e-commerce website that has the outstanding products of 6 famous electronics brands name SONY, GOOGLE,SAMSUNG,APPLE,LENOVO and XIAOMI. In this project I have used HTML,CSS,JS AND REACT JS in front-end and in the backend MONGODB has been used
+## 3. Kids Kingdom
+### Live Link: (https://kidskingdom2024.netlify.app/)
+It's an e-commerce website selling 6 famouss brands toy brands name RFL ,Gazi, Frank, Winfun ,Funskool and Mattle. In this project I have used HTML,CSS,JS AND REACT JS in front-end and in the backend MONGODB has been used
+
+
 
 
 
