@@ -16,7 +16,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aymanshoity)](https://github.com/anuraghazra/github-readme-stats)
 
 # Tools and Technologies I use
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,nodejs,react,redux,tailwind,vite,vscode,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,nodejs,react,redux,tailwind,nextjs,vite,vscode,mongodb)](https://skillicons.dev)
 
 # Current Github Status:
 
