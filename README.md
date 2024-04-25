@@ -1,8 +1,8 @@
 # Hi,I'm Syeda Umme Ayman
 ![](https://i.ibb.co/9nYbbZt/banner.png)
 
-### I'm a dynamic junior Mern Stack developer hailing from Dhaka, Bangladesh. My expertise lies in crafting immersive web experiences through a robust skill set in HTML, CSS, and JavaScript, React and MongoDB.
-### As a front-end developer, my vision is to craft digital experiences that seamlessly blend creativity with functionality. I aspire to contribute to the projects that not only meet current standards but also set new benchmarks for excellence. 
+### I'm a dynamic junior Mern Stack developer hailing from Dhaka, Bangladesh. My expertise lies in crafting immersive web experiences through a good skill set in HTML, CSS, and JavaScript, React  and MongoDB.
+### As a Mern Stack developer, my vision is to craft digital experiences that seamlessly blend creativity with functionality. I aspire to contribute to the projects that not only meet current standards but also set new benchmarks for excellence. 
 
 
 
@@ -32,18 +32,17 @@ Vend Cruch is basically a vending Machine management website which allows signle
 
 ## 2.Tour Terra 
 ### Live Link: https://tourterra.netlify.app/
-It is a tour Guide Maangement website for Booking tours around bangladesh's Most Beutiful Locations built with HTML,CSS,JS AND REACT JS in front-end and Node.js, Express.js in backend.
+It is a tour Guide Maangement website for Booking tours around bangladesh's Most Beutiful Locations built with React.js in front-end and Node.js, Express.js in backend.
 
 
 ## 3.Book Shelves
 ### Live Link: [https://bookshelves2024.netlify.app/]
-It's an online Library MAngement system allow the Readers to see all categories of books and borrow them according to the availability.
+It's an online Library MAngement system allow the Readers to see all categories of books and borrow them according to the availability.The sytem is built with React.js in front-end and Node.js, Express.js in backend.
 
 
 ## 4. Kids Kingdom
 ### Live Link: (https://kidskingdom2024.netlify.app/)
-It's an e-commerce website selling 6 famouss brands toy brands name RFL ,Gazi, Frank, Winfun ,Funskool and Mattle. In this project I have used HTML,CSS,JS AND REACT JS in front-end and in the backend MONGODB has been used
-
+It's an e-commerce website selling 6 famouss brands toy brands name RFL ,Gazi, Frank, Winfun ,Funskool and Mattle. In this project I have used React.js in front-end and Node.js, Express.js in backend.
 
 
 
