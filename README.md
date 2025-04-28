@@ -1,5 +1,5 @@
 # Hi,I'm Syeda Umme Ayman
-![](https://i.ibb.co/9nYbbZt/banner.png)
+![](https://i.ibb.co.com/svdJG2dH/Whats-App-Image-2025-04-28-at-14-49-25-d17121eb.jpg)
 
 ### I'm a dynamic junior Mern Stack developer hailing from Dhaka, Bangladesh. My expertise lies in crafting immersive web experiences through a good skill set in HTML, CSS, and JavaScript, React  and MongoDB.
 ### As a Mern Stack developer, my vision is to craft digital experiences that seamlessly blend creativity with functionality. I aspire to contribute to the projects that not only meet current standards but also set new benchmarks for excellence. 
